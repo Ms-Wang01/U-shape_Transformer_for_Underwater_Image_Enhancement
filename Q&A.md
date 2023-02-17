@@ -3,3 +3,6 @@
 打印读取图片列表
 发现下载的数据集下有.ipynb_checkpoints文件，用rm -rf .ipynb_checkpoints删除即可
 （ls -a指令可以显示全部文件）
+
+## GPU、内存等
+https://blog.csdn.net/m0_46483236/article/details/124112298
